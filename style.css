@@ -1,0 +1,43 @@
+* {
+    background-color : black;
+}
+.top-banner {
+    font-size: 240%;
+    text-align: center;
+    background-color: gray;
+}
+.font-1 {
+    text-align: unset;
+    color : white;
+}
+.font-2 {
+    list-style: none;
+    text-decoration: none;
+    color : white;
+    padding-right: 93px;
+    padding-left: 407px;
+}
+.font-3 {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-right: 93px;
+}
+.font-4 {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-right: 93px;
+}
+.font-5 {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-right: 93px;
+}
+.font-6 {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-right: 93px;
+}
